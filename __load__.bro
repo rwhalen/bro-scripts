@@ -1,1 +1,1 @@
-@load ./files
+@load ./files/extract-files.bro
